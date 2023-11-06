@@ -1,4 +1,4 @@
-![lista-atualizada](https://github.com/SamuelBozza/CadastroEE/assets/102820398/4e7fc643-9cea-4fed-9845-3916e1ec0c0b)# CadastroEE
+# CadastroEE
 
 <h1>Lista com produtos: </h1>
 ![lista-1](https://github.com/SamuelBozza/CadastroEE/assets/102820398/94f2da8f-5313-4fcb-a135-df5bc9c0264b)
