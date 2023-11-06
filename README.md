@@ -1,7 +1,9 @@
 # CadastroEE
 
 <h1>Lista com produtos: </h1>
-![lista-1](https://github.com/SamuelBozza/CadastroEE/assets/102820398/94f2da8f-5313-4fcb-a135-df5bc9c0264b)
+
+![lista-1](https://github.com/SamuelBozza/CadastroEE/assets/102820398/34f05fe3-5979-43dc-83e2-4bf4753b71d3)
+
 
 <h1>Cadastrando um produto novo: </h1>
 
